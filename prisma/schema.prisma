@@ -10,6 +10,7 @@ datasource db {
 model Usuario {
   id    Int     @id @default(autoincrement())
   nombre String
+  apellido String
   email  String @unique
   creadoEn DateTime @default(now())
 }
