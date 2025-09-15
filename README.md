@@ -2,7 +2,7 @@
 
 **Equipo de Desarrollo - Diseño de Software II**  
 
-Fecha: 2025-09-15
+
 
 ---
 
